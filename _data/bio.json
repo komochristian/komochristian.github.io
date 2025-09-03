@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Arduino" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Makefile", "Docker", "VSCode", "g++", "REST api",  ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Makefile", "Docker", "VSCode", "REST api"]
     }
   ],
   "education": [
