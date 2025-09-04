@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FELsim.jpeg
+image: img/felsim.jpg
 title: "Full-Stack Web App: Free Electron Laser Simulator"
 date: 2025
 published: true
