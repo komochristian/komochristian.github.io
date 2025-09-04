@@ -13,7 +13,9 @@ summary: "I developed a pressure sensor arduino device tha reads and displays th
 
 <div class="text-center p-4">
   <img width="200px" src="../img/pressure_img.jpeg" class="img-thumbnail" >
-  <video src="../img/pressure_sens.mp4" type="video/mp4">
+  <video width="200px" height="640" controls>
+        <src="../img/pressure_sens.mp4" type="video/mp4">
+  </video>
 </div>
 
 
