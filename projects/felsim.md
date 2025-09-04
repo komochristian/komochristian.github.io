@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/FELsim.jpeg
-title: "Free Electron Laser Simulator"
+title: "Full-Stack Web App: Free Electron Laser Simulator"
 date: 2025
 published: true
 labels:
@@ -13,11 +13,6 @@ labels:
 summary: "I developed a Python backend framework for running simulations and optimizations on free electron lasers, as well as a React frontend to interact with the simulation."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 A free electron laser (FEL) is a device used by physicists to accelerate electrons through a gun using magnets. Physicists accelerate electrons to relativistic speeds and can measure radiation emitted by the electrons by introducing different variables. The movement of electrons and the changing of their properties through a beamline can be simulated if the beamline elements and their transport matrix are known. 
 

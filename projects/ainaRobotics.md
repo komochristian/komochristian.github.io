@@ -13,11 +13,6 @@ labels:
 summary: "Collaborated with other team members to develop computer vision pipeline for pineapple agricultural fields."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 The Farm Robotic Challenge is a competition for college teams challenging students to use engineering skills in robotics, software, and hardware to tackle real world farming and agricultural issues. Out of 36 colleges in the 2025 competition, my team, Aina Robotics, and our robotics product won the second overall award and prize money. 
 
