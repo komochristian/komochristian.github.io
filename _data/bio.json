@@ -37,75 +37,84 @@
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Object-Oriented Programming", "Software Engineering", "Digital Design", "Discrete Math", "Program Structure"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii at Manoa Physics and Astronomy Department",
+      "position": "Lab Technician / Software Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-05-30",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Advancing particle research by architecting web applications and other software systems",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed frontend and REST API for a web application simulator supporting particle physics research at the University of Hawaii.",
+        "Credited with development of simulation software in research papers and conferences",
+        "Designed and engineered other electronic hardware and software systems for sensors and data monitoring"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Keiki Coders",
+      "position": "After-School Teacher",
+      "website": "http://www.keikicoders.com",
+      "startDate": "2023-10-18",
+      "endDate": "Present",
+      "summary": "Taught computer science to 70+ students in grades 1-6 across multiple schools in Oahu, introducing them to computational thinking.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Taught computational thinking using Python and block-based programming.",
+        "Introduced students to coding concepts and problem-solving skills.",
+        "Fostered a positive and engaging learning environment for young students."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Aina Robotics",
+      "website": "",
+      "position": "Startup Cofounder",
+      "startDate": "2025-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Co-founded a robotics startup focused on agricultural tech, particularly in teleoperations and data collection on farms.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Developed business model and pitched startup idea to venture capitalists at Agtech Expo.",
+        "Collaborated with industry leaders to develop MVP.",
+        "Invited to Plug and Play accelerator in Silicon Valley to pitch our agricultural tech-based startup idea."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Aina Robotics (Farm Robotics Challenge)",
+      "website": "https://www.farmroboticschallenge.ai/",
+      "position": "Computer Vision Team Member",
+      "startDate": "2025-01-22",
+      "endDate": "Present",
+      "summary": "Collaborated with team members to process agricultural image data and run object detection models to optimize farm robotics.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Won 2nd place overall in the 2025 Farm Robotics Challenge, competing against 36 colleges.",
+        "Worked with team to process agricultural image data and run object detection models.",
+        "Analyzed model accuracy and precision with statistical measures."
+      ]
+    },
+    {
+      "organization": "Association for Computing Machinery (ACM)",
+      "website": "http://www.acm.org",
+      "position": "Event Coordinator",
+      "startDate": "2025-02-10",
+      "endDate": "Present",
+      "summary": "Led event planning and organized student activities to boost ACM membership and engagement.",
+      "highlights": [
+        "Planned and promoted ACM student events, including career fairs and club meetings.",
+        "Boosted club membership through strategic event coordination."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2023-Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Awarded to first-year degree-seeking students based on high school academic performance and GPA. This scholarship supports students’ enrollment for up to four years and ranges from $2,000 to $4,000 per academic year."
     }
   ],
   "references": [
