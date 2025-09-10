@@ -13,7 +13,7 @@ TypeScript is really one of the most chaotic and unreadable languages in the wor
 
 While many of you may be sending angry messages to me on LinkedIn, take, for example, the following code:
 
- ‘’’javascript
+ ```javascript
 
 type Callback<T> = (error: Error | null, result?: T) => void;
 
@@ -33,7 +33,7 @@ function fetchData<T extends object>(
 
 //...
 
-‘’’
+```
 
 Understandably, for most of you, who are obviously full-stack and 10x developers, this may be quite a trivial piece of TypeScript. However, for those who spend time with other languages, this looks like a complete heap of messy words. What happened to the simple syntax of high level languages?? What happened to a simple print() statement like Python? 
 
