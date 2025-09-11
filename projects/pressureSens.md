@@ -12,7 +12,7 @@ summary: "I developed a pressure sensor arduino device tha reads and displays th
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/pressure_img.jpeg" class="img-thumbnail" >
+  <img width="500px" src="../img/pressure_img.jpeg" class="img-thumbnail" >
   <video width="320" controls>
         <source src="../img/pressure_sens.mp4" type="video/mp4">
   </video>
