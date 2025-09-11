@@ -22,4 +22,4 @@ For my work at the Physics and Astronomy department at the University of Hawaii 
 
 I am also currently implementing a frontend using Javascript and React that will allow for a more user friendly experience when running simulations on the a beamline to simulate. The frontend interacts with my Python backend using the FAST Api library.
 
-You can learn more at [Reigniting UH’s Free Electron Laser](https://research.hawaii.edu/noelo/reigniting-uhs-free-electron-laser/).
+You can learn more at [Reigniting UH’s Free Electron Laser](https://research.hawaii.edu/noelo/reigniting-uhs-free-electron-laser/) and my [Github repo](https://github.com/komochristian/FELsim).

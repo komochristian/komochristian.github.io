@@ -13,8 +13,8 @@ labels:
 summary: "Collaborated with other team members to develop computer vision pipeline for pineapple agricultural fields."
 ---
 
-  <img width="1000px" src="../img/frcAward.png" class="img-thumbnail" >
-  <img width="1000px" src="../img/objDetect.png" class="img-thumbnail" >
+  <img width="600px" src="../img/frcAward.png" class="img-thumbnail" >
+  <img width="600px" src="../img/objDetect.png" class="img-thumbnail" >
 
 The Farm Robotic Challenge is a competition for college teams challenging students to use engineering skills in robotics, software, and hardware to tackle real world farming and agricultural issues. Out of 36 colleges in the 2025 competition, my team, Aina Robotics, and our robotics product won the second overall award and prize money. 
 
@@ -24,4 +24,4 @@ While our land rover would traverse pineapple fields with a camera and provide f
 
 As a member of the computer vision team, I collborated with other members to develop the computer vision pipeline that would take and stich together drone images. I led the research for object detection models trained on pineapple data, where I recommended off-the-shelf models already trained and hosted on Roboflow, which contributed to our award winning project.
 
-You can learn more at the [Pineapple powerhouse: Students’ high-flying farm tech wins international award](https://www.hawaii.edu/news/2025/05/13/farm-robotics-challenge-2025-winner/).
+You can learn more at the [Pineapple powerhouse: Students’ high-flying farm tech wins international award](https://www.hawaii.edu/news/2025/05/13/farm-robotics-challenge-2025-winner/) and our [Github repo](https://github.com/CIRP-Lab/uhm_frc).

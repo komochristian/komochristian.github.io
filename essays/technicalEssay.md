@@ -10,6 +10,9 @@ labels:
   - Engineering
 ---
 
+<img width="320px" class="rounded float-start pe-4" src="../img/frcEssay.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/hopscotch.jpg">
+
 ## A spark is birthed
 
 Growing up, I always loved the digital world. Being born and raised in a modern country like Singapore, I always had an interest in technology and computers. Playing Minecraft as a youth, I was always experimenting and following online tutorials on installing mods on my computer. The process was always messy and often failed, but it instilled a lot of curiosity into me as I transitioned into block coding and playing other people’s video games. I also grew a knack for handcrafted projects, as I would enjoy making paper toy guns that I would annoy my sisters with by shooting paper darts at them.
