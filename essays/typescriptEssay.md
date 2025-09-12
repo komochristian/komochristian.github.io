@@ -48,4 +48,4 @@ Take me back to when I started learning React with zero JavaScript or web develo
 Despite my sins of blaspheming against Typescript and its holy online church, Typescript sure has its ways with project development. Instead of going through 400 lines of code in my project trying to see how to format my JSON object in JavaScript, Typescript allows me to immediately eliminate 15 minutes of debugging run-time errors, the seamless integration with my IDE allows me to crank code faster, and it’s compilation into Javascript is extremely useful. Typescript, definitely a weird type of combination of different languages, but a useful one.
 
 
-
+*AI used to generate messy TypeScript code
