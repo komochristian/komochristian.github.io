@@ -11,8 +11,8 @@ labels:
 ---
 
 
-<img width="600px" class="rounded float-start pe-4" src="../img/wojak2.png">
-<img width="600px" class="rounded float-start pe-4" src="../img/wojak.jpg">
+<img width="650px" class="rounded float-start pe-4" src="../img/wojak2.png">
+<img width="650px" class="rounded float-start pe-4" src="../img/wojak.jpg">
 
 ## Smart Question
 
