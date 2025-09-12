@@ -11,14 +11,14 @@ labels:
 ---
 
 
-<img width="320px" class="rounded float-start pe-4" src="../img/wojak2.png">
-<img width="320px" class="rounded float-start pe-4" src="../img/wojak.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/wojak2.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/wojak.jpg">
 
 ## Smart Question
 
 [Smart question](https://stackoverflow.com/questions/22876978/loop-inside-react-jsx )
 
-An example of a strong question on Stack Overflow is titled “Loop inside React JSX” where the developer explains their issue with attempting to use a traditional for loop inside JSX syntax and acknowledges invalid syntax. However, by adding context to the question by mentioning their background in template-based environments, the readers begin to understand why they are confused. This question demonstrates a classic smart question, backed by the Stack Overflow community with 2000+ votes. Notably, the asker shows they’ve already attempted a solution, explains what they expected, and provides a minimal, focused code example that isolates the problem, and so the community was able to offer efficient solutions, including constructing arrays of JSX elements using a loop outside the JSX return or using the .map() method. This example clearly illustrates how asking questions the “smart” way leads to helpful, thorough, and educational answers that not only solve the problem but also deepen the asker’s understanding of the technology.
+In our example above, our smart question is a Stack Overflow form is titled “Loop inside React JSX” where the developer explains their issue with attempting to use a traditional for loop inside JSX syntax. However, by adding context to the question by mentioning their background in template-based environments, the readers begin to understand why they are confused. This question demonstrates a classic smart question, backed by the Stack Overflow community with 2000+ votes. Notably, the asker shows they’ve already attempted a solution, explains what they expected, and provides a minimal, focused code example that isolates the problem, and so the community was able to offer efficient solutions, including constructing arrays of JSX elements using a loop outside the JSX return or using the .map() method. This example clearly illustrates how asking questions the “smart” way leads to helpful, thorough, and educational answers that not only solve the problem but also deepen the asker’s understanding of the technology.
 
 ## Bad Question
 
