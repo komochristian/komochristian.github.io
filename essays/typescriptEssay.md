@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/ts.png">
+<img width="1300px" class="rounded float-start pe-4" src="../img/ts.png">
 
 TypeScript is really one of the most chaotic and unreadable languages in the world. Sure, catching errors before runtime saves a lot of fire, having type definitions in my IDE saves lots of time and hassle, and explicit type definitions save hundreds of emails from other developers, but at the end of the day, Typescript has taken away the fundamental simplicity that a high-level language, like JavaScript, was supposed to provide originally. 
 
