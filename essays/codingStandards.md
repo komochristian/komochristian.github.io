@@ -53,3 +53,5 @@ I'm not talking about code with bad syntax and code grammar, but rather, unstruc
 ## Just like my mother
 
 ESLint helps software engineers and developers keep their code organized and structured, similar to somebody's mom yelling at them to keep their room clean. Although a bit annoying initially, ESLint makes your code professional and saves time for everyone. I also find that some of ESLint's feedback not only helps me write neat code, but also makes my code practically safe. Code that doesn't use extra unneeded memory, and code that is memory safe, so although ESLint likes to nitpick many tiny things and details, I find it a very useful tool.
+
+*AI Used to generate messy code
