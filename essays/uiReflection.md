@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Useful In (saving time)"
+title: "UIs: Useful In (saving time)"
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-09
 published: true
@@ -23,7 +23,7 @@ Well, not exactly circles, but when drawing curved edges and other curves, compu
 
 # UIs??
 
-UIs (User Interfaces), as I like to think of them, are just ways of translating computer interfaces into human friendly interfaces. While computer software talks to hardware through 1s and 0s, humans interact with software through the most simple physical action: The push of a button, and it has been quite effective for the past many decades. However simple most UI designs may seem at first, underneath, there are a lot of complex systems that work together to produce the design. These underlying systems can be so complicated that there are full time careers dedicated to designing these systems: software frontend engineers. I myself am more of a backend type of guy. Although I like making things look cool and pretty, some things about frontend engineering throw me off. Take, for example, the following HTML code
+UIs (User Interfaces), as I like to think of them, are just ways of translating computer interfaces into human friendly interfaces. While computer software talks to hardware through 1s and 0s, humans interact with software through the most simple physical action: The push of a button, and it has been quite effective for the past many decades. However simple most UI designs may seem at first, underneath, there are a lot of complex systems that work together to produce the design. These underlying systems can be so complicated that there are full time careers dedicated to designing these systems: software frontend engineers. I myself am more of a backend type of guy. Which is why I am grateful that UI Frameworks exist to make lives easier and less stressful. These frameworks make creating components and styling them a lot simpler and easier without directly using CSS. After playing with frameworks like Bootstrap, I can see why people love them so much. It makes websites dynamic and consistent across devices and saves engineers time in designing. However, frameworks do come with their own complications. Take, for example, the following HTML code:
 
 
 ```html
