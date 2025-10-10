@@ -55,3 +55,6 @@ UIs (User Interfaces), as I like to think of them, are just ways of translating 
 For me, it is easier and less of a headache to read and create safe APIs and server systems than to debug long bootstrap or Tailwind code. Even with the simplification that frameworks like Bootstrap offer, I would rather stay out of that domain if I can. I'm thankful for these frameworks too, as they make creating different styles and components super easy and intuitive. I find it's odd that I have a lot more comfortability with more functional frontend frameworks like React than simple basic HTML, perhaps with experience one day I may call myself the mythical...
 
 # Frontend Engineer
+
+
+*AI Used to generate messy code
