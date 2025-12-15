@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<img width="500px" class="rounded float-start pe-4" src="../img/sticker.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/meme.jpeg">
 
 # A normal work schedule:
 
