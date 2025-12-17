@@ -4,7 +4,7 @@ type: essay
 title: "ESlint: My Digital Mother"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-25
-published: true
+published: false
 labels:
   - Programming
   - JavaScript

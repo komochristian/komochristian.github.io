@@ -4,7 +4,7 @@ type: essay
 title: "Passion cannot be replicated"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-10
-published: true
+published: false
 labels:
   - Programming
   - Engineering

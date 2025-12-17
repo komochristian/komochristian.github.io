@@ -4,7 +4,7 @@ type: essay
 title: "The Type of Mess TypeScript is"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-09
-published: true
+published: false
 labels:
   - Programming
 ---
