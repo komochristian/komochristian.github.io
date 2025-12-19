@@ -80,7 +80,7 @@ N/A
 
 # Impact on Learning and Understanding:
 
-AI has been a double-edged sword. I can use AI to explain and give me practical examples that teach me ways to write and implement code. However, getting an answer right away has taken some beauty out of learning, in that I don’t understand as well the underlying concepts that back many aspects of software engineering. Things like Prisma ORM require more research on my end for me to feel more knowledgeable. I think AI can give information in a personlized way, which is good. However, it doesn’t excuse me and others from not putting in the time to learn and understand.
+AI has been a double-edged sword. I can use AI to explain and give me practical examples that teach me ways to write and implement code. However, getting an answer right away has taken some beauty out of learning, in that I don’t understand as well the underlying concepts that back many aspects of software engineering. Things like Prisma ORM require more research on my end for me to feel more knowledgeable. I think AI can give information in a personalized way, which is good. However, it doesn’t excuse me and others from not putting in the time to learn and understand.
 
 # Practical Applications:
 
