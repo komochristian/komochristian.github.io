@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Arduino" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Arduino", "TypeScript", "Bootstrap", "Next.js", ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Makefile", "Docker", "VSCode", "REST api"]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Makefile", "Docker", "VSCode", "REST api", "Prisma ORM", "Postgresql", "ESLint", "Jester", ]
     }
   ],
   "education": [
@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
-      "courses": [ "Object-Oriented Programming", "Software Engineering", "Digital Design", "Discrete Math", "Program Structure"
+      "courses": [ "Object-Oriented Programming", "Software Engineering", "Digital Design", "Discrete Math", "Program Structure",
       ]
     }
   ],
