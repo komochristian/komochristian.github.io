@@ -16,9 +16,9 @@ labels:
 summary: "I and my classmates created a website which allowed students at UH Manoa to find a roomate with similar housing preferences to create a more positive housing environment on campus."
 ---
 
-  <img width="300px" src="../img/manoamatch/manoamatch1.png" class="img-thumbnail" >
-  <img width="300px" src="../img/manoamatch/manoamatch2.png" class="img-thumbnail" >
-  <img width="300px" src="../img/manoamatch/manoamatch3.png" class="img-thumbnail" >
+  <img width="500px" src="../img/manoamatch/manoamatch1.png" class="img-thumbnail" >
+  <img width="500px" src="../img/manoamatch/manoamatch2.png" class="img-thumbnail" >
+  <img width="500px" src="../img/manoamatch/manoamatch3.png" class="img-thumbnail" >
 
 For this class project, 3 other students and I created Manoa Roomie Match, a website to help UH students living near or on campus with finding good roommates. The problem we saw was that many students at UH were having trouble finding rooming partners that matched their own living preferences, causing conflict and issues. Our website fixes that issue by creating a platform for finding roommates that students can connect with.
 
