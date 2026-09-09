@@ -4,7 +4,7 @@ type: essay
 title: "The Hardest Engineering Task: Q/A"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
-published: true
+published: false
 labels:
   - Programming
   - Software Engineering
