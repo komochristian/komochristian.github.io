@@ -4,7 +4,7 @@ type: essay
 title: "6 months of development:"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-16
-published: true
+published: false
 labels:
   - Agile Development
   - Coding standards
