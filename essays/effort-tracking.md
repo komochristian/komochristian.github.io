@@ -4,7 +4,7 @@ type: essay
 title: "Time = $$$"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
-published: false
+published: true
 labels:
   - Software Engineering
   - Project Planning
